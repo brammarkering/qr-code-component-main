@@ -1,0 +1,12 @@
+body {
+    background: hsl(219, 100%, 49%);
+    display: flex; 
+    justify-content: center;
+    align-items: center
+}
+#info {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border: solid;
+}
